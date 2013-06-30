@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoGen", "AlgoGen\AlgoGen.csproj", "{8040011D-6A4C-40EC-BCE4-A45B0C70B787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoGen.Test", "ClassLibrary1\AlgoGen.Test.csproj", "{57975126-2D26-410B-8B16-74DFE4D41DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8040011D-6A4C-40EC-BCE4-A45B0C70B787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8040011D-6A4C-40EC-BCE4-A45B0C70B787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8040011D-6A4C-40EC-BCE4-A45B0C70B787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8040011D-6A4C-40EC-BCE4-A45B0C70B787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57975126-2D26-410B-8B16-74DFE4D41DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57975126-2D26-410B-8B16-74DFE4D41DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57975126-2D26-410B-8B16-74DFE4D41DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57975126-2D26-410B-8B16-74DFE4D41DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
